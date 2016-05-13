@@ -1,0 +1,11 @@
+# About
+
+This is a image that contains the known youtube-dl tool to download videos from
+video sites eg. youtube, vimeo.
+
+For documentation see: https://github.com/rg3/youtube-dl/blob/master/README.md#readme
+
+# Usage
+
+$ docker run -it -v /local/output/folder:/media-output matglas/youtube-dl:latest
+$ youtube-dl [video url]
