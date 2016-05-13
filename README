@@ -5,6 +5,11 @@ video sites eg. youtube, vimeo.
 
 For documentation see: https://github.com/rg3/youtube-dl/blob/master/README.md#readme
 
+# Important notice
+
+Note that stream ripping or video ripping violates many ToS. Using this is your own
+responsibility.
+
 # Usage
 
 $ docker run -it -v /local/output/folder:/media-output matglas/youtube-dl:latest
